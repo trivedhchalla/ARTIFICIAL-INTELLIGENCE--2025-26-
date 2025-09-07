@@ -1,0 +1,5 @@
+AI/ML/DL:treated as models 
+model: is ntg but a mathematical/satistical intuition to predicted for further inputs .
+ex : If we plot weight v/s height we use line fitting to best possible line to pass through all the points present graph then from it if just take slope and intercept - y then 
+model === (slope,intercept)
+the eqution of this model used for prediction is : weight = slope*height + intercept
